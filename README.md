@@ -8,37 +8,36 @@ Craft compelling data stories that support decision-making.
 Build a strong portfolio with impactful and well-designed visualizations.
 
 This project was developed as part of Task1 of the CodeAlpha Data Analytics Internship
-________________________________________
+
 Objective
-•	To visualize sales data using graphs
-•	To analyze sales trends over multiple years
-•	To identify the year with increased sales growth
-________________________________________
+  •	To visualize sales data using graphs
+  •	To analyze sales trends over multiple years
+  •	To identify the year with increased sales growth
+
 Dataset Description
 The dataset contains year-wise sales information with the following fields:
-•	Year – Represents the sales year
-•	Sales – Total sales value for that year
-________________________________________
+  •	Year – Represents the sales year
+  •	Sales – Total sales value for that year
+
 Tools and Technologies Used
-•	Python – Programming language
-•	Pandas – Data handling and analysis
-•	Matplotlib – Creating charts and graphs
-•	VS Code – Development environment
-•	GitHub – Project submission platform
-________________________________________
+  •	Python – Programming language
+  •	Pandas – Data handling and analysis
+  •	Matplotlib – Creating charts and graphs
+  •	VS Code – Development environment
+  •	GitHub – Project submission platform
 
 Requirements
 Software Requirements
-•	Python 3.x
-•	VS Code or any Python editor
+  •	Python 3.x
+  •	VS Code or any Python editor
 Library Requirements
-•	pandas
-•	matplotlib
-________________________________________
+  •	pandas
+  •	matplotlib
+
 Project Output
-•	Line graph showing sales trend over the years
-•	Bar chart comparing yearly sales
-•	Identification of the year with increased sales growth
+ •	Line graph showing sales trend over the years
+ •	Bar chart comparing yearly sales
+ •	Identification of the year with increased sales growth
 
 What I Learned
 •	How to convert raw data into meaningful visualization  
