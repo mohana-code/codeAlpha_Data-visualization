@@ -1,67 +1,63 @@
-Data Visualization 
+ Data Visualization Project
 
-Project Overview
+ Internship Task (Company Provided)
+- Transform raw data into visual forms like charts, graphs, and dashboards
+- Use tools like Matplotlib, Seaborn, and Tableau for creating visuals
+- Design visuals that enhance understanding and deliver insights clearly
+- Craft compelling data stories that support decision-making
+- Build a strong portfolio with impactful and well-designed visualizations
 
-                Transform raw data into visual forms like charts, graphs, and dashboards.Use tools like Matplotlib, Seaborn, and Tableau for creating visuals.Design visuals that enhance understanding and deliver insights clearly.Craft compelling data stories that support decision-making.  Build a strong portfolio with impactful and well-designed visualizations.
+ Project Overview
+- Focuses on year-wise sales data visualization
+- Converts raw numerical data into charts and graphs to understand trends and patterns
+- Identifies the year with increased sales growth
 
-This project was developed as part of Task1 of the CodeAlpha Data Analytics Internship
-
-Objective
-
-  •	To visualize sales data using graphs
-  •	To analyze sales trends over multiple years
-  •	To identify the year with increased sales growth
+ Objective
+- Visualize sales data using charts and graphs
+- Analyze sales trends over multiple years
+- Identify the year with increased sales growth
 
 Dataset Description
+- Year – Represents the sales year
+- Sales – Total sales value for that year
 
-   The dataset contains year-wise sales information with the following fields:
-  •	Year – Represents the sales year
-  •	Sales – Total sales value for that year
-
-Tools and Technologies Used
-
-  •	Python – Programming language
-  •	Pandas – Data handling and analysis
-  •	Matplotlib – Creating charts and graphs
-  •	VS Code – Development environment
-  •	GitHub – Project submission platform
+ Tools and Technologies
+- Python
+- Pandas
+- Matplotlib
+- VS Code
+- GitHub
 
 Requirements
 
-Software Requirements
+ Software Requirements
+- Python 3.x
+- VS Code or any Python editor
 
-  •	Python 3.x
-  •	VS Code or any Python editor
-  
-Library Requirements
+ Library Requirements
+- pandas
+- matplotlib
 
-  •	pandas
-  •	matplotlib
+ Project Output
+- Line graph showing sales trends over the years
+- Bar chart comparing yearly sales
+- Identification of the year with increased sales growth
 
-Project Output
+ What I Learned
+- How to convert raw data into meaningful visualizations
+- Creating charts and graphs using Matplotlib and Seaborn
+- Understanding trends and patterns from data
+- Presenting data in a clear and professional way
+- Improving data storytelling skills
 
- •	Line graph showing sales trend over the years
- •	Bar chart comparing yearly sales
- •	Identification of the year with increased sales growth
+ Internship Information
+- Program: Data Analytics
+- Organization: CodeAlpha
+- Task Completed: Data Visualization
 
-What I Learned
+ Author
+- Mohana K
+- Data Analytics Intern
 
-•	How to convert raw data into meaningful visualization  
-•	Creating charts and graphs using Matplotlib and Seaborn  
-•	Understanding trends and patterns from data  
-•	Presenting data in a clear and professional way  
-•	Improving data storytelling skills
-
-Internship information
-
-       Program:Data Analytics
-       Organization:codeAlpha
-       Task completed : Data visualization
-  Author   
-  
-     Mohana k
-     Data analytics intern
-
-Thankyou for CodeAplha for providing this opportunity to learn and practice Data Analytics
-      
-
+ Acknowledgement
+- Thank you to CodeAlpha for providing this opportunity to learn and practice Data Analytics
