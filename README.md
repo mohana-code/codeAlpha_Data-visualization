@@ -1,6 +1,6 @@
  Data Visualization Project
 
- Internship Task (Company Provided)
+ Internship Task 1 
 - Transform raw data into visual forms like charts, graphs, and dashboards
 - Use tools like Matplotlib, Seaborn, and Tableau for creating visuals
 - Design visuals that enhance understanding and deliver insights clearly
